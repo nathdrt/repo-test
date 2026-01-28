@@ -1,2 +1,2 @@
-# repo-test
-demo-git
+# dépot script
+plusieur script pour s'entrainer et comprendre.
